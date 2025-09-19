@@ -1,7 +1,9 @@
 {
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin",
+    "java.project.sourcePaths": [
+        "TallerJdbc/src"
+    ],
+    "java.project.outputPath": "TallerJdbc/bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "lib/mysql-connector-j-9.0.0.jar"
     ]
 }
